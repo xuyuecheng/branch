@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view from its nib.
     self.title = @"Game";
     NSLog(@"111");
+    NSLog(@"222");
+    NSLog(@"333");
 }
 
 /*
